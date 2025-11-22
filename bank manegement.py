@@ -122,3 +122,5 @@ while True:
         repay_loan()
     elif choice==7:
         break
+    else:
+        print("Invalid choice please enter a valid choice")
